@@ -1,0 +1,20 @@
+body{
+    background-color: purple;
+}
+h1{
+    font-style: initial;
+}
+.image{
+    border-radius: 500%; border-top: 20px;
+    width: 125px;
+    height: 125px;
+}
+a{
+    color: yellow;
+}
+marquee{
+   position: absolute;
+   top: 195px;
+   right: 0px;
+   
+}

@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+}
+body{
+    background: url('./images/background.jpg');
+    background-position: center;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: blueviolet;  
+}
+img{
+    border-radius: 500%; border-top: 20px;
+    width: 100px;
+    height: 150px;
+}
+div{
+    margin: auto;
+    width: 155px;
+    border: 0px;
+    padding: 22px;
+}
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: o.5em;
+    border: 1px solid purple;
+    border-radius: 60px;
+    width: 50%;
+    border-style: inset;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+    forced-color-adjust: lightblue;
+}
+h1,h2{
+   background-color: plum;
+   width: 95%;
+   background-clip: inherit;
+   font-style: italic;
+   font-size: 20px;
+   margin: auto;
+   width: 155px;
+   border: 0px;
+   padding: 1px;
+   height: 50;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
